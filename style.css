@@ -1,0 +1,25 @@
+body {
+    background-color: chartreuse;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    color: beige;
+    font-family: LT Binary Neue, monospace;
+    font-weight: normal;
+    
+
+}
+
+p {
+    color: white;
+    font-family: LT Binary Neue, monospace;
+    text-align: center;
+    font-weight: normal;
+}
